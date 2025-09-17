@@ -1,2 +1,1 @@
-# Goodreads-Book-Reviews
-This will be a repository for items created with data related to books on Goodreads for the purpose of practicing some data analytics.
+This project includes some exploration of data related to books on Goodreads. The overall objective is to generate lists of books that readers might be interested in reading. 
